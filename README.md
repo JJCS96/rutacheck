@@ -125,3 +125,9 @@ frontend/src/
 ## Autor
 
 Jhonier Corozo
+
+## Créditos
+
+Idea, requisitos y diseño funcional: Jhonier Corozo, basado en su experiencia desarrollando
+sistemas de geosupervisión de personal en campo. Implementación desarrollada con asistencia de
+Claude (Anthropic) como herramienta de programación.
