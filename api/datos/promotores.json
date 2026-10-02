@@ -1,0 +1,56 @@
+[
+  {
+    "usuario": "prom01",
+    "nombre": "Diego Salazar",
+    "coordinadorId": "CO01",
+    "color": "#38bdf8"
+  },
+  {
+    "usuario": "prom02",
+    "nombre": "Valeria Cedeño",
+    "coordinadorId": "CO01",
+    "color": "#f472b6"
+  },
+  {
+    "usuario": "prom03",
+    "nombre": "Mateo Ortiz",
+    "coordinadorId": "CO01",
+    "color": "#facc15"
+  },
+  {
+    "usuario": "prom04",
+    "nombre": "Camila Herrera",
+    "coordinadorId": "CO02",
+    "color": "#a78bfa"
+  },
+  {
+    "usuario": "prom05",
+    "nombre": "Sebastián Vera",
+    "coordinadorId": "CO02",
+    "color": "#fb923c"
+  },
+  {
+    "usuario": "prom06",
+    "nombre": "Daniela Paredes",
+    "coordinadorId": "CO02",
+    "color": "#2dd4bf"
+  },
+  {
+    "usuario": "prom07",
+    "nombre": "Javier Molina",
+    "coordinadorId": "CO03",
+    "color": "#f87171"
+  },
+  {
+    "usuario": "prom08",
+    "nombre": "Paula Castillo",
+    "coordinadorId": "CO03",
+    "color": "#60a5fa"
+  },
+  {
+    "usuario": "prom09",
+    "nombre": "Andrés Zambrano",
+    "coordinadorId": "CO03",
+    "color": "#e879f9"
+  }
+]
