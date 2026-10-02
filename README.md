@@ -7,6 +7,20 @@ qué tiendas visitaron, por dónde se movieron y dónde están ahora mismo.
 > recorridos GPS) son **ficticios** y se generan automáticamente. No se conecta a ninguna
 > base de datos ni servicio real.
 
+## Capturas
+
+**Visitas**: check-in y check-out del día, con alertas de marcaciones fuera de radio.
+
+![Modo Visitas](docs/capturas/visitas.png)
+
+**Recorrido**: traza GPS de cada promotor, paradas y métricas por franja horaria.
+
+![Modo Recorrido](docs/capturas/recorrido.png)
+
+**En vivo**: posición actual del equipo con su estela de los últimos 30 minutos.
+
+![Modo En vivo](docs/capturas/en-vivo.png)
+
 ## Modos
 
 | Modo | Qué muestra |
